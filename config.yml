@@ -1,0 +1,5 @@
+# Configuration du projet, ne pas toucher si vous ne savez pas ce que vous faites.
+global:
+  background_color: "#42d4f5"
+  ground_color: "#28bf2b"
+version : 0.1
